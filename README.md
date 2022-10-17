@@ -4,7 +4,7 @@
 
              🌱 Atualmente cursando ADS e fazendo um curso de Javascript 
 
-             🎈 Viso ser um Desenvolvedor full-stack
+             🎈 Sonho ser um Desenvolvedor full-stack
 
 <div align="center">
   <a href="https://github.com/Lucas-Sant0s">
