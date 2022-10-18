@@ -1,8 +1,10 @@
 ## Olá, eu sou o Lucas Santos
 
-             🖥️ Atualmente trabalho com Vendas/Varejo
+             🖥️ Atualmente trabalho com Vendas/Varejo 
+             
+             🔭 Estou buscando meu primeiro emprego como Desenvolvedor
 
-             🌱 Atualmente cursando ADS e fazendo um curso de Javascript 
+             🌱 Estou cursando faculdade de ADS e fazendo um curso de Javascript
 
              🎈 Sonho ser um Desenvolvedor full-stack
 
